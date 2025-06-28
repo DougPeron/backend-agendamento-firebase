@@ -76,10 +76,10 @@ A seguir estão os principais endpoints disponíveis. Rotas marcadas como `Priva
 
 Método - Endpoint
 
- `POST` - `/bookings` - Cria um novo agendamento.
- `GET` - `/bookings/my-bookings` - Lista todos os agendamentos do usuário logado.
- `PUT` - `/bookings/:id` - Atualiza um agendamento existente (horário). **Requer 24h de antecedência.**
- `DELETE` - `/bookings/:id` - Exclui permanentemente um agendamento.
+- `POST` - `/bookings` - Cria um novo agendamento.
+- `GET` - `/bookings/my-bookings` - Lista todos os agendamentos do usuário logado.
+- `PUT` - `/bookings/:id` - Atualiza um agendamento existente (horário). **Requer 24h de antecedência.**
+- `DELETE` - `/bookings/:id` - Exclui permanentemente um agendamento.
 
 **Como se autenticar:**
 
