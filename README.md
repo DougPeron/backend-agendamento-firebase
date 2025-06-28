@@ -1,6 +1,6 @@
 # API para Agendamento de Quadras (Backend Serverless)
 
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status do Projeto](https://img.shields.io/badge/status-finalizado-green)
 
 API RESTful desenvolvida com uma arquitetura serverless na plataforma Google Firebase, projetada para gerenciar o agendamento de quadras esportivas em aplicações web e mobile.
 
